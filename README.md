@@ -19,5 +19,7 @@ Responsive Design: The app is responsive and works on both desktop and mobile de
 
 ### Technologies Used
 HTML: Structure of the to-do list.
+
 CSS: Styling the to-do list and making it mobile-responsive.
+
 JavaScript: Adding interactivity (add, edit, delete, complete tasks, etc.) and localStorage functionality to persist tasks.
