@@ -4,11 +4,17 @@ This is a simple To-Do List application built with HTML, CSS, and JavaScript. Th
 
 ## Features
 Add Task: Users can add new tasks to the to-do list.
+
 Edit Task: Tasks can be edited by the user.
+
 Mark Task as Completed: Users can mark tasks as completed, which strikes through the task and changes its status.
+
 Delete Task: Tasks can be deleted individually.
+
 Clear All Tasks: Users can clear all tasks from the list.
+
 Filter Tasks: Users can filter tasks by their status: All, Pending, or Completed.
+
 Responsive Design: The app is responsive and works on both desktop and mobile devices.
 
 ### Technologies Used
